@@ -1,0 +1,119 @@
+@font-face {
+    font-family: InterBlack;
+    src: url(font/inter/Inter-Black.ttf);
+}
+
+@font-face {
+    font-family: InterBlackItalic;
+    src: url(font/inter/Inter-BlackItalic.ttf);
+}
+
+@font-face {
+    font-family: InterBold;
+    src: url(font/inter/Inter-Bold.ttf);
+}
+
+@font-face {
+    font-family: InterBoldItalic;
+    src: url(font/inter/Inter-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: InterExtraBold;
+    src: url(font/inter/Inter-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: InterExtraBoldItalic;
+    src: url(font/inter/Inter-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: InterExtraLight;
+    src: url(font/inter/Inter-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: InterExtraLightItalic;
+    src: url(font/inter/Inter-ExtraLightItalic.ttf);
+}
+
+@font-face {
+    font-family: InterItalic;
+    src: url(font/inter/Inter-Italic.ttf);
+}
+
+@font-face {
+    font-family: InterLight;
+    src: url(font/inter/Inter-Light.ttf);
+}
+
+@font-face {
+    font-family: InterLightItalic;
+    src: url(font/inter/Inter-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: InterMedium;
+    src: url(font/inter/Inter-Medium.ttf);
+}
+
+@font-face {
+    font-family: InterMediumItalic;
+    src: url(font/inter/Inter-MediumItalic.ttf);
+}
+
+@font-face {
+    font-family: InterRegular;
+    src: url(font/inter/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: InterSemiBold;
+    src: url(font/inter/Inter-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: InterSemiBoldItalic;
+    src: url(font/inter/Inter-SemiBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: InterThin;
+    src: url(font/inter/Inter-Thin.ttf);
+}
+
+@font-face {
+    font-family: InterThinItalic;
+    src: url(font/inter/Inter-ThinItalic.ttf);
+}
+
+@font-face {
+    font-family: MuseoSans100;
+    src: url(font/museo/museosans-100.ttf);
+}
+
+@font-face {
+    font-family: MuseoSans300;
+    src: url(font/museo/museoSans-300.otf);
+}
+
+@font-face {
+    font-family: MuseoSans300t;
+    src: url(font/museo/museosans-300.ttf);
+}
+
+@font-face {
+    font-family: MuseoSans500;
+    src: url(font/museo/museoSans-500.otf);
+}
+
+@font-face {
+    font-family: MuseoSans700;
+    src: url(font/museo/museoSans-700.otf);
+}
+
+@font-face {
+    font-family: MuseoSans900;
+    src: url(font/museo/museoSans-900.otf);
+}
